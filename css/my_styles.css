@@ -66,3 +66,7 @@
   object-fit: cover;
   object-position: center top;
 }
+
+.home-start-btn {
+  box-shadow: 0 10px 10px 0 rgba(152, 231, 255, 0.4); /* 添加陰影 */
+}
